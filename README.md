@@ -1,5 +1,15 @@
 # Claude Code Source Code
 
+<div align="center">
+  <a href="https://www.atlascloud.ai/developer">
+    <img src="assets/atlascloud-logo.svg" alt="Atlas Cloud" height="38">
+  </a>
+  <p>
+    <strong>Sponsored by <a href="https://www.atlascloud.ai/developer">Atlas Cloud</a></strong><br>
+    OpenAI-compatible APIs for LLM, image, and video models.
+  </p>
+</div>
+
 ## Also Check Out
 
 | Project | Description |
